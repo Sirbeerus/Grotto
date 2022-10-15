@@ -1,0 +1,1 @@
+/nix/store/sz2wcwxnxrk3sv687326s4ql2q5q6ynf-postgresql-and-plugins-13.7/bin/postgres "-D" "build/db/state" "-k" "/Users/sirbeerus/Desktop/Integrated-Haskell-Platform/blog/build/db" "-c" "listen_addresses="
